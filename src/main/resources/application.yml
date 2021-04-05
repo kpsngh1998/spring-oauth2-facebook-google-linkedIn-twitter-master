@@ -1,0 +1,17 @@
+google:
+  client:
+  clientId: 12894100090-tqso3lih5o42isneort886la2pesafmp.apps.googleusercontent.com
+  clientSecret: 9xfU16efvxQ-BTMsXT9wOLpw
+  accessTokenUri: https://accounts.google.com/o/oauth2/token
+  userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+  clientAuthenticationScheme: form
+  scope: profile email
+  resource:
+  userInfoUri:  https://www.googleapis.com/oauth2/v3/userinfo
+
+    
+server:
+  port: 8081
+  
+
+         
